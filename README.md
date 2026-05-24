@@ -20,16 +20,13 @@ A beautiful and responsive weekly habit tracker dashboard built using pure HTML,
 
 ## 🚀 Live Demo
 
-https://your-live-demo-link.com
+https://prathap2349.github.io/my-habit-tracker/
 
 ---
 
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript
-- html2canvas
 
 ---
 
